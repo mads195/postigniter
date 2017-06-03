@@ -1,0 +1,2 @@
+# postigniter
+A really simple way to run a post based website via email. A service capable absorbing inbound emails of some sort is required, e.g. Zapier Email + Webhook zaps. Essentially this project has a web-service end-point that accepts a POST request so actually, inbound email is only one option. Anything capable of sending a POST request can use this system. To be really honest? I couldn't be arsed to write a control-panel and besides, WordPress exists if you want that!
